@@ -1,2 +1,2 @@
 def fun():
-    pass
+    return True
